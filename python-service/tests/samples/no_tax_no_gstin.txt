@@ -1,0 +1,7 @@
+Udupi Stationery Mart
+INVOICE
+Invoice Number: 2026-0415
+Date: 2026-09-28
+Subtotal: 640.00
+Tax: 0.00
+Total: 640.00

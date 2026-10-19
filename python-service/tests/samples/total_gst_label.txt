@@ -1,0 +1,6 @@
+Karavali Fresh Foods
+Invoice No: KF-778
+Date: Oct 05, 2026
+Sub Total: ₹200.00
+Total GST (18%): ₹36.00
+Net Payable: ₹236.00

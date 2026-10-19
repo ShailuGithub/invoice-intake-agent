@@ -1,0 +1,11 @@
+Sri Lakshmi Traders
+TAX INVOICE
+GSTIN: 29ABCDE1234F1Z5
+Invoice No: INV-1042
+Date: 01/10/2026
+Item            Qty   Rate     Amount
+Steel rods      10    100.00   1,000.00
+Subtotal: ₹1,000.00
+CGST (9%): ₹90.00
+SGST (9%): ₹90.00
+Grand Total: ₹1,180.00

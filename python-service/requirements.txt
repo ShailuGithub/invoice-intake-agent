@@ -1,0 +1,8 @@
+anthropic==1.15.0
+fastapi==0.146.0
+httpx==0.28.1
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+pydantic==2.14.1
+python-multipart==0.0.32
+uvicorn==0.54.0

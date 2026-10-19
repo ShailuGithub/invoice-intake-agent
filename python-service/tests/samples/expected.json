@@ -1,0 +1,7 @@
+{
+  "cgst_sgst.txt": {"vendor": "Sri Lakshmi Traders", "invoiceNumber": "INV-1042", "invoiceDate": "2026-10-01", "subtotal": 1000.0, "taxAmount": 180.0, "total": 1180.0, "gstin": "29ABCDE1234F1Z5", "currency": "INR"},
+  "igst_total_only.txt": {"vendor": "Bhaskar Hardware & Paints", "invoiceNumber": "BL/22/0087", "invoiceDate": "2026-10-12", "subtotal": 2500.0, "taxAmount": 450.0, "total": 2950.0, "gstin": "36AAACR5055K1Z7", "currency": "INR"},
+  "no_tax_no_gstin.txt": {"vendor": "Udupi Stationery Mart", "invoiceNumber": "2026-0415", "invoiceDate": "2026-09-28", "subtotal": 640.0, "taxAmount": 0.0, "total": 640.0, "gstin": null, "currency": null},
+  "total_gst_label.txt": {"vendor": "Karavali Fresh Foods", "invoiceNumber": "KF-778", "invoiceDate": "2026-10-05", "subtotal": 200.0, "taxAmount": 36.0, "total": 236.0, "gstin": null, "currency": "INR"},
+  "total_mismatch.txt": {"vendor": "Coastal Cables", "invoiceNumber": "CC-9", "invoiceDate": "2026-10-03", "subtotal": 1000.0, "taxAmount": 180.0, "total": 1200.0, "gstin": null, "currency": null}
+}

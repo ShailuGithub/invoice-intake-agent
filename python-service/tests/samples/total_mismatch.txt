@@ -1,0 +1,6 @@
+Coastal Cables
+Invoice No: CC-9
+Date: 03-10-2026
+Subtotal: 1000.00
+GST: 180.00
+Total: 1200.00
